@@ -3246,13 +3246,13 @@ footer .footer-social li:last-child {
 .surname{
 	background-color: #4caf50;
 	padding: 0 12px;
-	margin-left: -12px;
 }
 
 .name{
 	background-color: #fff;
 	padding: 0 12px;
 	color: #4caf50;
+	margin-left: -12px;
 }
 
 
