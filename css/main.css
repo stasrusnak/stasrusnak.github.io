@@ -86,6 +86,7 @@ html {
 html,
 body {
 	height: 100%;
+	/*overflow-x: hidden;*/
 }
 
 body {
@@ -2356,6 +2357,7 @@ header .header-logo a {
 	background: #FFFFFF;
 	position: relative;
 	padding: 12rem 0 9rem;
+	overflow-x: hidden;
 }
 
 #credentials .credentials-content h2 {
@@ -3211,9 +3213,8 @@ footer .footer-social li:last-child {
 	width: 60px;
 	line-height: 63px;
 	text-align: center;
-	background-color: #000000;
-	/*background-color: #4caf50;*/
-	color: #888;
+	background-color: #4caf50;
+	color: #ffffff;
 	text-align: center;
 	text-transform: uppercase;
 	-moz-transition: all 0.3s ease-in-out;
